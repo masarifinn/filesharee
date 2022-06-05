@@ -15,8 +15,8 @@ https://github.com/Dax083/filesharee
 - Lebih dari satu Posting dalam Satu Link (batch).
 - Dapat di-deploy di heroku secara langsung.
 
-### Setup
-
+### Mempersiapkan
+saya
 - Tambahkan bot ke Channel Database dengan semua izin admin
 - Tambahkan bot ke Channel ForceSub tambahkan bot sebagai ADMIN
 - Tambahkan bot ke Group ForceSub tambahkan bot sebagai ADMIN
@@ -24,10 +24,8 @@ https://github.com/Dax083/filesharee
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mandorganteng/filesharee)</br>
-
-#### Deploy in your VPS
-````bash
+[ ! [Menyebarkan] ( https://www.herokucdn.com/deploy/button.svg ) ] ( https://heroku.com/deploy?template=https://https://github.com/masarifinn
+```` bash
 git https://github.com/Dax083/filesharee
 cd FileSharing-Restu
 pip3 install -r requirements.txt
@@ -41,8 +39,8 @@ python3 main.py
 /start - mulai bot atau dapatkan postingan
 
 /batch - buat link untuk lebih dari satu posting
-
-/genlink - buat link untuk satu posting
+saya
+/genlink - buat link untuk satu postingan
 
 /users - lihat statistik pengguna bot
 
