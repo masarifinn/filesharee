@@ -24,9 +24,9 @@ https://github.com/Dax083/filesharee
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mandorganteng/filesharee)</br>
-
-#### Deploy in your VPS
+[ ! [Menyebarkan] (https://www.herokucdn.com/deploy/button.svg) ] (https://heroku.com/deploy?template=https://github.com/masarifinn/filesharee) </br>
+saya
+#### Terapkan di VPS Anda
 ````bash
 git https://github.com/Dax083/filesharee
 cd FileSharing-Restu
