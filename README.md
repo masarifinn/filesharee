@@ -1,4 +1,4 @@
-# File Sharing ReszzXD
+# Berbagi File ReszzXD
 
 Bot Telegram untuk menyimpan Postingan atau File yang Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
